@@ -1,6 +1,6 @@
 # 🚀 UG Navigate – Optimal Routing Solution for University of Ghana Campus
 
-![UG Navigate Banner](./assets/ug-navigate-banner.gif)
+![UG Navigate Banner](https://github.com/obengjessica/Legon-Campus-Nav-Map/blob/main/UG.jpeg)
 
 > **UG Navigate** is a Java-based campus navigation system that helps users find the **best route** from one location to another on the University of Ghana campus — considering shortest distance, optimal arrival time, and real-time campus conditions.
 
