@@ -61,13 +61,14 @@ Key features include:
 
 2. Open in IntelliJ IDEA
 
-File → Open → Select the project folder.
+   File → Open → Select the project folder.
 
 3. Run the Application
 
-Locate the Main.java file and run it.
+   Locate the Main.java file and run it.
 
-🖥 #Usage
+
+##🖥Usage
 Launch the app.
 
 Select Start Location and Destination.
@@ -82,14 +83,23 @@ Fastest arrival time
 
 Click on a route to view step-by-step navigation.
 
+##📸 Screenshots & Demos
 
-#🚀 Future Improvements
+| Home Screen                              | Route Options                                | Route Visualization                  |
+| ---------------------------------------- | -------------------------------------------- | ------------------------------------ |
+| ![Home Screen](./assets/home-screen.png) | ![Route Options](./assets/route-options.png) | ![Route Map](./assets/route-map.gif) |
+
+
+
+##🚀 Future Improvements
 Add real-time traffic data.
 
 Integrate Google Maps API for live navigation.
 
 Add mobile version for Android/iOS.
-👨‍💻 Authors
+
+
+##👨‍💻 Authors
 Obeng Jessica Afriyie & Team
 Department of Computer Science, University of Ghana
 
