@@ -99,8 +99,14 @@ Integrate Google Maps API for live navigation.
 Add mobile version for Android/iOS.
 
 
+## 📄 License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+##✨ Finding your way around UG has never been this easy!
+
 ## 👨‍💻 Authors
-Obeng Jessica Afriyie & Team
+Obeng Jessica Afriyie 
+& Team- add your names here guys
 Department of Computer Science, University of Ghana
 
 
