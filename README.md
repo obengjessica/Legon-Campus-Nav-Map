@@ -68,7 +68,7 @@ Key features include:
    Locate the Main.java file and run it.
 
 
-##🖥Usage
+## 🖥Usage
 Launch the app.
 
 Select Start Location and Destination.
@@ -91,7 +91,7 @@ Click on a route to view step-by-step navigation.
 
 
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 Add real-time traffic data.
 
 Integrate Google Maps API for live navigation.
@@ -99,7 +99,7 @@ Integrate Google Maps API for live navigation.
 Add mobile version for Android/iOS.
 
 
-##👨‍💻 Authors
+## 👨‍💻 Authors
 Obeng Jessica Afriyie & Team
 Department of Computer Science, University of Ghana
 
