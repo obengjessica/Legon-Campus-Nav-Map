@@ -106,7 +106,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 ## 👨‍💻 Authors
 Obeng Jessica Afriyie 
-& Team- add your names here guys
+& Haruna Hakeem- add your names here guys
 Department of Computer Science, University of Ghana
 
 
